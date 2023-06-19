@@ -1,0 +1,35 @@
+﻿  Spirals.cpp
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(52,24): warning C4244: аргумент: преобразование "T" в "const std::complex<float>::_Ty", возможна потеря данных
+          with
+          [
+              T=int32_t
+          ]
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(52,19): warning C4244: аргумент: преобразование "T" в "const std::complex<float>::_Ty", возможна потеря данных
+          with
+          [
+              T=int32_t
+          ]
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(69,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(79,10): warning C4244: +=: преобразование "float" в "int32_t", возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(80,10): warning C4244: +=: преобразование "float" в "int32_t", возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(81,10): warning C4244: +=: преобразование "float" в "int32_t", возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(111,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(279,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(280,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(336,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(338,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(366,54): warning C4244: аргумент: преобразование "T" в "const std::complex<float>::_Ty", возможна потеря данных
+          with
+          [
+              T=int32_t
+          ]
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(366,46): warning C4244: аргумент: преобразование "T" в "const std::complex<float>::_Ty", возможна потеря данных
+          with
+          [
+              T=int32_t
+          ]
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(398,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(432,33): warning C4244: -=: преобразование "float" в "uint8_t", возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(433,33): warning C4244: -=: преобразование "float" в "uint8_t", возможна потеря данных
+D:\Projects\C++\Spirals New\Spirals New\Spirals New\Spirals.cpp(434,33): warning C4244: -=: преобразование "float" в "uint8_t", возможна потеря данных
+  Spirals New.vcxproj -> D:\Projects\C++\Spirals New\Spirals New\x64\Debug\Spirals New.exe
